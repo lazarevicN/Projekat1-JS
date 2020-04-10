@@ -1,0 +1,18 @@
+[
+    {
+        "idArtikla" : 1,
+        "imeArtikla" : "Artikal 1"
+    },
+    {
+        "idArtikla" : 2,
+        "imeArtikla" : "Artikal 2"
+    },
+    {
+        "idArtikla" : 3,
+        "imeArtikla" : "Artikal 3"
+    },
+    {
+        "idArtikla" : 4,
+        "imeArtikla" : "Artikal 4"
+    }
+]
